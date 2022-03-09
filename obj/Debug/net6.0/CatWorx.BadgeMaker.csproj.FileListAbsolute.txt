@@ -13,3 +13,9 @@ C:\Users\amcco\OneDrive\Desktop\Post-School\CatWorx.BadgeMaker\obj\Debug\net6.0\
 C:\Users\amcco\OneDrive\Desktop\Post-School\CatWorx.BadgeMaker\obj\Debug\net6.0\CatWorx.BadgeMaker.pdb
 C:\Users\amcco\OneDrive\Desktop\Post-School\CatWorx.BadgeMaker\obj\Debug\net6.0\CatWorx.BadgeMaker.genruntimeconfig.cache
 C:\Users\amcco\OneDrive\Desktop\Post-School\CatWorx.BadgeMaker\obj\Debug\net6.0\ref\CatWorx.BadgeMaker.dll
+C:\Users\amcco\OneDrive\Desktop\Post-School\CatWorx.BadgeMaker\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amcco\OneDrive\Desktop\Post-School\CatWorx.BadgeMaker\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\amcco\OneDrive\Desktop\Post-School\CatWorx.BadgeMaker\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amcco\OneDrive\Desktop\Post-School\CatWorx.BadgeMaker\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\amcco\OneDrive\Desktop\Post-School\CatWorx.BadgeMaker\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\amcco\OneDrive\Desktop\Post-School\CatWorx.BadgeMaker\obj\Debug\net6.0\CatWorx.BadgeMaker.csproj.CopyComplete

@@ -33,6 +33,7 @@ class Program
     List<Employee> employees = GetEmployees();
     Util.PrintEmployees(employees);
     Util.MakeCSV(employees);
+    Util.MakeBadges(employees);
   }
 }
 }
